@@ -74,16 +74,16 @@
     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JCH3RY7T?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/learn/achievements/generic-badge.svg" width="100"/></a>
   </div>
  
-> MATLAB:
+> MATLAB: <br>
 
-<div style="display: flex; flex-wrap: wrap;">
+  <div style="display: flex; flex-wrap: wrap;">
       <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=dfa6a234-0afb-4697-ab5c-1ee0b0658781&" target="_blank"><img src="https://matlabacademy.mathworks.com/images/course/panel_simulink.webp" width="100"/></a>
       <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=12574ad9-ec2c-4dc8-b666-a130d519c846&" target="_blank"><img src="https://matlabacademy.mathworks.com/images/course/panel_gettingstarted.webp" width="100"/></a>
   </div>
-</div>  <br> <br>
+</div> <br> <br>
 
 
-### <p align="center"> Reach out to me </p> 
+<p align="center"> Reach out to me </p> 
 
 <p align="center">
 <a href="https://github.com/ajmal276" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="ajmalu" height="30" width="40" /></a>
