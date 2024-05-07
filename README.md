@@ -50,6 +50,9 @@
 
   - #### Hackerrank: https://www.hackerrank.com/profile/techblog884
   - #### Leetcode: https://leetcode.com/Calc_master/
+<br> <br>
+
+[My TechFolio](https://app.mulearn.org/profile/ajmal.u@mulearn)
 
     
 
