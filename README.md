@@ -61,7 +61,7 @@
 > GitHub:
 
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="display: flex; margin-right: 20px;"> <!-- Adjust margin as needed -->
+   <div style="display: flex; margin-right: 20px;"> <!-- Adjust margin as needed -->
     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/KL642W7B?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg" alt="Machine Learning by Andrew Ng" width="100"/></a>
     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JCUXA2JT?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" width="100"/></a>
     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/W72VRAVN?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Machine Learning by Andrew Ng" width="100"/></a>
@@ -72,14 +72,16 @@
      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/3Y733GXH?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/training/achievements/github/authenticate-authorize-user-identities-github.svg" width="100"/></a>
      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/3YZF7F7H?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/training/achievements/github/search-organize-repository-history-github.svg" width="100"/></a>
     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JCH3RY7T?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/learn/achievements/generic-badge.svg" width="100"/></a>
-  </div>
- 
+   </div>
+ </div> 
+
 > MATLAB: <br>
 
-  <div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;">
+   <div style="display: flex; margin-right: 20px;">
       <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=dfa6a234-0afb-4697-ab5c-1ee0b0658781&" target="_blank"><img src="https://matlabacademy.mathworks.com/images/course/panel_simulink.webp" width="100"/></a>
       <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=12574ad9-ec2c-4dc8-b666-a130d519c846&" target="_blank"><img src="https://matlabacademy.mathworks.com/images/course/panel_gettingstarted.webp" width="100"/></a>
-  </div>
+   </div>
 </div> <br> <br>
 
 
