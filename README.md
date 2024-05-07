@@ -1,153 +1,87 @@
-# IEEE LAUNCHPAD Job Fair
+# AJMAL U
 
+### About Me
 
+>  Mechanical engineering student with strong foundation in MS office, Python, Digital Marketing, SEO strategies, Git & GitHub, and web development. Passionate about emerging technologies like machine learning, IoT, AI and robotics. Proven track record of promoting internships and assisting students, with strong communication, teamwork, and event planning skills. Completed a machine learning internship and a Python deep learning project. Seeking opportunities to drive innovation and make an impact in a fast-paced organization.
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               |                                                             
+|---------------------|---------------------------------------------------------------------------|
+| **Motorized Patient Trolley**  | A hospital project to help the workers in the hospital to make it comfortable|                                                    
+| **Youtube Adview using Machine Learning**  | Youtube advertisers pay content creators based on adviews and clicks for the goods and services being marketed. They want to estimate the adview based on other metrics like comments, likes etc. The problem statement is therefore to train various regression models and choose the best one to predict the number of adviews. The data needs to be refined and cleaned before feeding in the algorithms for better results.                                              | 
 
+#### Leadership and Influence:
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+- I beleives that I have good management skills and communication skills that enable me to lead many positions in my campus. Currently I engaging the following positions;
+   - Carrier Guidance and Placement Cell RIT - Deapartment lead
+   - Mulearn community - Working as a campus lead for the Tech community "Mulearn"
+   - National Cyber Volunteer programme - Member in National Cyber Volunteer programme and engaging in the nearby police station cyber related activities as a volunteer
+- I am also trying to improve my leadership qualities through leadership programme conducted by international communities. 
 
+#### Networking:
 
+- I always open to connect with people having same passion of mine. You can find me here; https://www.linkedin.com/in/ajmal-u/
+#### Career Plan:
 
+- As a mechanical engineer, I want to change my carreier in the future tech fields like Robotics, Machine learning, Data science and Cybersecurity. I believes that my invlovment on part of new tech organisations in Kerala Startup echo system can contribute new strategies and new innovations.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
+- In India Kerala has a great choice to be the centre of excellence of future technologies in future. And the land of Kerala and Tech cultural activities on it will make the destination soon.
 
+#### History of Open Source Contributions:
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+- I don't have any open sourece contributions upto here.
 
-#
+#### History of Community Engagement:
 
+-  I have part of many communities through discord servers. The activities through this communities include carrier development, tech activities and leadership development.
 
+#### Highly Visible Technical Content:
 
+#### https://medium.com/@techblog884/bitcoin-the-future-of-electronic-transactions-d98d00de0161
+#### Highly Used Software Tools:
 
-<div align="center">
+- Microsoft office, MATLAB, CATIA, Fusion 360, Solidworks, Ansys, RoboDK 
+#### Competitive Website Profiles:
 
+  - #### Hackerrank: https://www.hackerrank.com/profile/techblog884
+  - #### Leetcode: https://leetcode.com/Calc_master/
 
-
-
-# How to Participate
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
+### Tech Badges
+> GitHub:
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="display: flex; margin-right: 20px;"> <!-- Adjust margin as needed -->
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/KL642W7B?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg" alt="Machine Learning by Andrew Ng" width="100"/></a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JCUXA2JT?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" width="100"/></a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/W72VRAVN?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Machine Learning by Andrew Ng" width="100"/></a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/QJS669KE?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg" width="100"/></a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JC9D7BVT?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" width="100"/></a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/8A26DTLW?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/training/achievements/github/maintain-secure-repository-github.svg" width="100"/></a>
+     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/2KJRQW9V?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/training/achievements/github-introduction-administration.svg" width="100"/></a>
+     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/3Y733GXH?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/training/achievements/github/authenticate-authorize-user-identities-github.svg" width="100"/></a>
+     <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/3YZF7F7H?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/training/achievements/github/search-organize-repository-history-github.svg" width="100"/></a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JCH3RY7T?sharingId=E7A09216D1C18747" target="_blank"><img src="https://learn.microsoft.com/learn/achievements/generic-badge.svg" width="100"/></a>
+  </div>
+ 
+> MATLAB:
+<div style="display: flex; flex-wrap: wrap;">
+      <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=dfa6a234-0afb-4697-ab5c-1ee0b0658781&" target="_blank"><img src="https://matlabacademy.mathworks.com/images/course/panel_simulink.webp" width="100"/></a>
+      <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=12574ad9-ec2c-4dc8-b666-a130d519c846&" target="_blank"><img src="https://matlabacademy.mathworks.com/images/course/panel_gettingstarted.webp" width="100"/></a>
+  </div>
 </div>
 
 
-</div>
 
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
+### Reach out to me
+<p align="left">
+<a href="https://github.com/ajmal276" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="ajmalu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajmal-u/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ajmalu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__a_j__u__?igsh=NHAzeWJyMW4ybGZp" target="blank"><img align="center" src="https://github.com/ajmal276/Portfolio/blob/main/Portfolio/instagram.png?raw=true" alt="ajmalu" height="30" width="30" /></a>
+<a href="ajmalu996@gmail.com" target="blank"><img align="center" src="https://github.com/ajmal276/Portfolio/blob/main/Portfolio/gmail.png?raw=true" alt="ajmalu" height="30" width="30" /></a>
+</p>
 
 ---
